@@ -1,5 +1,5 @@
 '''
-Write a function to find all words in a sentence that start with a vowel
+Write a function to find all words in a sentence that start with a vowel using regular expressions.
 '''
 import re
 
