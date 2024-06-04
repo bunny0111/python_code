@@ -5,7 +5,7 @@ Write a function to determine the year is leap year. (Leap year is divisible by 
 def leap_year(year):
     if (year % 400 == 0) or (year % 4 == 0 and year % 100 != 0):
         return True
-    return False201
+    return False
     
 
 y = int(input("Enter Year="))
