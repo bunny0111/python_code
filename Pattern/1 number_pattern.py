@@ -1,12 +1,17 @@
 '''
 Simple number pattern using for loop
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+5 5 5 5 5 
 '''
-
-def number_pattern(rows):
-    for i in range(rows):
-        for j in range(i):
-            print(i, end=' ')
-        print('')
-
 r = int(input("Enter number of rows="))
-print(number_pattern(r))
+# outer loop
+for i in range(r + 1):
+        # nested loop
+        for j in range(i):
+            # display number
+            print(i, end=' ')
+            # new line after each row
+        print('')
