@@ -1,0 +1,9 @@
+Data Structure and Algorithm:-
+Data structure is a particular way of storing and organizing data in a computer so that it can be used efficiently.
+
+Classification of Data Structure:-
+1. Linear Data Structure:- Array, Dynamic Array, Linked List, Stack, Queue, Dequeue
+2. Non-Linear Data Structure
+
+Algorithm:- An algorithm is the step by step linguistic representation of logic to solve a given problem.
+
