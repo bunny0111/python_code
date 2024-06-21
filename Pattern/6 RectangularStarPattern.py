@@ -1,4 +1,9 @@
-'''Rectangular Star Pattern'''
+'''Rectangular Star Pattern
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+'''
 
 def RectStarPattern(row, col):
     for i in range(row):

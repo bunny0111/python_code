@@ -1,4 +1,10 @@
-'''Star Pyramid'''
+'''Star Pyramid
+    *
+   ***
+  *****
+ *******
+*********
+'''
 def star_pyramid(row):
     for i in range(1, row+1):
         for j in range(row - i):

@@ -1,4 +1,10 @@
-'''Right-Angled Triangle Pattern'''
+'''Right-Angled Triangle Pattern
+*
+**
+***
+****
+*****
+'''
 
 def RightAngledTrianglePattern(row):
     for i in range(row+1):

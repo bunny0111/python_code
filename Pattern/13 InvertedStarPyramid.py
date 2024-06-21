@@ -1,4 +1,10 @@
-'''Inverted Star Pyramid'''
+'''Inverted Star Pyramid
+*********
+ *******
+  *****
+   ***
+    *
+'''
 
 def invertedStarPyramid(rows):
     for i in range(rows, 0, -1):
