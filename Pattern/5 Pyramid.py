@@ -1,6 +1,10 @@
 '''
 Pyramid Shape
-
+    *
+   ***
+  *****
+ *******
+*********
 '''
 
 def pyramid(rows):
