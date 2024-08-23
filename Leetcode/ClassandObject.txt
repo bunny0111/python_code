@@ -1,0 +1,31 @@
+In short 'Examples of Common Noun' is a 'class' and 'Examples of proper noun' is 'object'.
+Class - class is a description of an object.
+class Test:
+    #attributes; like variables, functions
+
+It defines various attributes of an object.
+Eg
+l1 = [10, 20, 30]
+l1.append(40)
+l1.show()
+
+Attributes - Attributes are member variable and member function
+class Test:
+    x = 5
+    def f1():
+        # some code
+
+x and f1 are attributes
+
+Object - Object is an instance of a class
+objects are of two types
+    - class object
+    - instance object
+
+t1 = Test()
+t2 = Test()     t1 and t2 are instance object of Test clas
+
+Encapsulation - An act of combining 'properties' and 'methods' related to same object is known as Encapsulation.
+Eg. ramesh.running()        Here, ramesh is 'object' and running is 'action' which is a function.
+class is a way to implement Encapsulation.
+
